@@ -1,4 +1,3 @@
-package com.work;
 import java.util.Scanner;
 
 public class Main {
